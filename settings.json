@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": DoBiMine-l8Ny.aternos.me
-    "port":  20877
+    "ip": "DoBiMine-l8Ny.aternos.me",
+    "port":  20877,
     "version": "1.21.1"
   },
   "position": {
